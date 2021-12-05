@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/12/5 16:24:45。
+     1>项目“D:\vs2012代码文件夹\Project010\Project010\Project010.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2012代码文件夹\Project010\Debug\Project010.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs2012代码文件夹\Project010\Debug\Project010.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2012代码文件夹\Project010\Debug\Project010.lib" /MACHINE:X86 Debug\luogu.obj
+         Project010.vcxproj -> D:\vs2012代码文件夹\Project010\Debug\Project010.exe
+     1>已完成生成项目“D:\vs2012代码文件夹\Project010\Project010\Project010.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.51
